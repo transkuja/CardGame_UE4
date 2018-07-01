@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+CardProject/Content/StarterContent/
+
+CardProject/Intermediate/
+
+CardProject/Saved/
+
+CardProject/Binaries/

@@ -1,0 +1,9 @@
+---,Name,Description,Value1,Value2,Visual,CardEffectsOnUse,CardEffectsOnSet
+NewRow,Cool Card,This is a very cool card,10,5,PaperSprite'/Game/Sprites/visages_Card_0.visages_Card_0',"((NewEnumerator0, 2),(NewEnumerator1, 5))","((NewEnumerator0, 1),(NewEnumerator1, 10))"
+NewRow_0,2nd Card,This is another card,2,3,PaperSprite'/Game/Sprites/visages_Card_1.visages_Card_1',"((NewEnumerator0, 2),(NewEnumerator1, 5))","((NewEnumerator0, 1),(NewEnumerator1, 10))"
+NewRow_1,Card3,Card3,1,1,PaperSprite'/Game/Sprites/visages_Card_2.visages_Card_2',"((NewEnumerator0, 2),(NewEnumerator1, 5))","((NewEnumerator0, 1),(NewEnumerator1, 10))"
+NewRow_2,Card4,Card4,2,2,PaperSprite'/Game/Sprites/visages_Card_3.visages_Card_3',"((NewEnumerator0, 2),(NewEnumerator1, 5))","((NewEnumerator0, 1),(NewEnumerator1, 10))"
+NewRow_3,Card5,Card5,3,3,PaperSprite'/Game/Sprites/visages_Card_4.visages_Card_4',"((NewEnumerator0, 2),(NewEnumerator1, 5))","((NewEnumerator0, 1),(NewEnumerator1, 10))"
+NewRow_4,Card6,Card6,4,4,PaperSprite'/Game/Sprites/visages_Card_5.visages_Card_5',"((NewEnumerator0, 2),(NewEnumerator1, 5))","((NewEnumerator0, 1),(NewEnumerator1, 10))"
+NewRow_5,Card7,Card7,5,5,PaperSprite'/Game/Sprites/visages_Card_6.visages_Card_6',"((NewEnumerator0, 2),(NewEnumerator1, 5))","((NewEnumerator0, 1),(NewEnumerator1, 10))"
+NewRow_6,Card8,Card8,6,6,PaperSprite'/Game/Sprites/visages_Card_7.visages_Card_7',"((NewEnumerator0, 2),(NewEnumerator1, 5))","((NewEnumerator0, 1),(NewEnumerator1, 10))"
